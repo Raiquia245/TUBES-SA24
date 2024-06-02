@@ -4,3 +4,4 @@ Berdasarkan 2 Metode yaitu :
   - Brute Force
   - Backtracking
 
+Code cek di string.py
